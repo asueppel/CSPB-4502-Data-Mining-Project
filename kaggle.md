@@ -1,4 +1,4 @@
-My Kaggle Project:
+Preprocessing and Outlier Analysis Kaggle Project:
 https://www.kaggle.com/alxthms/liquor-eda
 
 Reference:
