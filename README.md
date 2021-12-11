@@ -27,3 +27,4 @@ Video Link:
 https://cuboulder.zoom.us/rec/share/cG5m3SsjbTzq_oBuYQV9g7tInTvJSQGoed2bihQZy2R74R6Ho4qlQXgT8xuqqug.n79942AOusDXNBeC?startTime=1639111396000
 
 Final Project Paper Link:
+https://github.com/asueppel/CSPB-4502-Data-Mining-Project/blob/main/Project%20Milestones/Group4_MiningIowaLiquorSales_Part4.pdf
